@@ -3,7 +3,6 @@
  :man_technologist: My name is Ignacio and I'm a computer engineering student from Brazil.
   Here is where I try to build some things and end up breaking others heheh :ok_man:
   
-  ------------------------------------------------------------------- WNK (ง ͡ʘ ͜ʖ ͡ʘ)ง WNK -------------------------------------------------------------------
  <h1></h1>
  
  **My technology stack** :man_technologist:
