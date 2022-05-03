@@ -1,6 +1,6 @@
 ### printf(" Hi there! Welcome to my Github :B ");
 
- :man_technologist: My name is Ignacio and I'm a computer engineering student from Brazil.
+ :man_technologist: My name is Ignacio and I'm from Brazil. I have been studying computer engineering since 2018 and currently I'm in my senior year.
   Here is where I try to build some things and end up breaking others heheh :ok_man:
   
  <h1></h1>
