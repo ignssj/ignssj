@@ -17,6 +17,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" width="30" height="30"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" width="30" height="30"/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" width="30" height="30"/>
   <div>
     <h1></h1>
 <div>
