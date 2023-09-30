@@ -1,4 +1,4 @@
-### printf(" Hi there! Welcome to my Github :B ");
+# printf(" Hi there! Welcome to my Github :B ");
 
 I'm Ignacio, a Software Developer who thrives on the joy of building things. Holding a degree in Computer Engineering from Universidade Federal do Pampa, I have acquired a solid foundation in various aspects of computer science and discovered my true passion for software development along the way.
 
@@ -6,8 +6,8 @@ Throughout my academic journey, I have nurtured a deep interest in software deve
 
 Feel free to explore my repositories and delve into my projects. I always embrace collaborations, discussions, and opportunities to learn from fellow developers and enthusiasts. If you have any questions or simply want to say hello, please don't hesitate to reach out!
 
-<a href="https://github.com/ignssj">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ignssj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-  
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignssj) 
